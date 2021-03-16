@@ -2,7 +2,7 @@ import { MenuEntry } from '@pancakeswap-libs/uikit'
 
 const config: MenuEntry[] = [
   {
-    label: 'Home',
+    label: 'HomeL',
     icon: 'HomeIcon',
     href: 'https://www.goosedefi.com/'
   },
