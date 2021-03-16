@@ -1982,9 +1982,9 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@giacomogaglione/tempura-uikit":
+"@pancakeswap-libs/uikit@https://github.com/giacomogaglione/tempura-uikit.git":
   version "0.10.2"
-  resolved "https://codeload.github.com/giacomogaglione/tempura-uikit/tar.gz/eb2737890e868db342450278679722aba63ed8d1"
+  resolved "https://github.com/giacomogaglione/tempura-uikit.git#5fc0edcff304be120e98130b36de166174a2247a"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
